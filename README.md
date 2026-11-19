@@ -208,13 +208,13 @@ npm run lint
 
 ## Ekran Görüntüleri
 
-| Giriş ve Kayıt | Ana Sayfa ve Harita |
-|---|---|
-| `docs/screenshots/login.png` | `docs/screenshots/home.png` |
+> **Giriş ve Kayıt** — GSM tabanlı kayıt, OTP doğrulama ve JWT oturum akışı
 
-| Sipariş ve QR Takibi | Dükkân Sahibi Paneli |
-|---|---|
-| `docs/screenshots/qr.png` | `docs/screenshots/shop-owner.png` |
+> **Ana Sayfa ve Harita** — Leaflet haritası üzerinde konum sıralı dükkân keşfi
+
+> **Sipariş ve QR Takibi** — Özelleştirilmiş sipariş, QR teslim ve canlı durum
+
+> **Dükkân Sahibi Paneli** — Sipariş sekmeleri, hazırlık akışı ve QR doğrulama
 
 ## Güvenlik Notları
 
